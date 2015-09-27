@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/113648/7c13084f3ff148ababdeb1e308de9b5e
+url: http://rpubs.com/jonkhoo/113648
+when: 1443383214.69993
